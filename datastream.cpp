@@ -1,0 +1,5 @@
+#include "datastream.h"
+
+dataStream(){
+
+}
